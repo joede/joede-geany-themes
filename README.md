@@ -18,9 +18,11 @@ The *bright schemes* differ in the color of the  background and the color of
 the current line. The assignments of the colors to the styles is equal.
 
 **`joede-bright-bluish`:**
+
 ![joede-bright-bluish](https://raw.github.com/joede/joede-geany-themes/master/screenshots/sample-joede-bright-bluish.png)
 
 **`joede-bright-paper`:**
+
 ![joede-bright-paper](https://raw.github.com/joede/joede-geany-themes/master/screenshots/sample-joede-bright-paper.png)
 
 
@@ -34,7 +36,9 @@ For `joede-anthracite-2`, I've played with *Orange* and *Cyan*. Most of the othe
 style assignments are unchanged. The color palette is equal.
 
 **`joede-anthracite`:**
+
 ![joede-anthracite](https://raw.github.com/joede/joede-geany-themes/master/screenshots/sample-joede-anthracite.png)
 
 **`joede-anthracite-2`:**
+
 ![joede-anthracite-2](https://raw.github.com/joede/joede-geany-themes/master/screenshots/sample-joede-anthracite-2.png)
