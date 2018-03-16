@@ -42,3 +42,30 @@ style assignments are unchanged. The color palette is equal.
 **`joede-anthracite-2`:**
 
 ![joede-anthracite-2](https://raw.github.com/joede/joede-geany-themes/master/screenshots/sample-joede-anthracite-2.png)
+
+
+## Themes `joede-adwaita-dark` and `joede-adwaita-darker`
+
+Again I've played with my dark Geany themes. I'm currently using the
+*Adwaita-Dark* theme running Debian Stretch. Here the ARC background isn't
+looking that good. Based on the anthracite color palette above, I've switch
+to the grey values of GNOME. The "darker" theme has a sligthly darker background.
+
+As before, there is a variant "2" which uses orange keywords.
+
+
+**`joede-adwaita-dark`:**
+
+![joede-adwaita-dark](https://raw.github.com/joede/joede-geany-themes/master/screenshots/sample-joede-adwaita-dark.png)
+
+**`joede-adwaita-dark-2`:**
+
+![joede-adwaita-dark-2](https://raw.github.com/joede/joede-geany-themes/master/screenshots/sample-joede-adwaita-dark-2.png)
+
+**`joede-adwaita-darker`:**
+
+![joede-adwaita-darker](https://raw.github.com/joede/joede-geany-themes/master/screenshots/sample-joede-adwaita-darker.png)
+
+**`joede-adwaita-darker-2`:**
+
+![joede-adwaita-darker-2](https://raw.github.com/joede/joede-geany-themes/master/screenshots/sample-joede-adwaita-darker-2.png)
