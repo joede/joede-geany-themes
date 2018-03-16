@@ -11,6 +11,12 @@ is reduced.
 All of the themes comes with a sample image of the color palette. This file is
 available inside the `tools` folder.
 
+## Installation
+
+To get my schemes to work, simply copy the files from `colorschemes` into
+`colorschemes` below the local configuration directory of Geany. It can be found
+at `~/.config/geany/colorschemes`.
+
 
 ## Themes `joede-bright-bluish` and `joede-bright-paper`
 
@@ -46,10 +52,10 @@ style assignments are unchanged. The color palette is equal.
 
 ## Themes `joede-adwaita-dark` and `joede-adwaita-darker`
 
-Again I've played with my dark Geany themes. I'm currently using the
-*Adwaita-Dark* theme running Debian Stretch. Here the ARC background isn't
-looking that good. Based on the anthracite color palette above, I've switch
-to the grey values of GNOME. The "darker" theme has a sligthly darker background.
+Again I've played with my dark Geany schemes. I'm currently using the
+*Adwaita-Dark* scheme running Debian Stretch. Here the ARC background isn't
+looking that good. Based on the anthracite color palette above, I've added
+the grey values of GNOME. The "darker" theme has a sligthly darker background.
 
 As before, there is a variant "2" which uses orange keywords.
 
